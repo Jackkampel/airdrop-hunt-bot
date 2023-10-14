@@ -3,7 +3,7 @@
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
     <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
   </a>
-  <a href="https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/LICENSE">
+  <a href="https://github.com/GameCheatings/airdrop-hunt-bot/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
@@ -60,8 +60,8 @@ Example of the algorithm of actions for airdrop:
 6. Discover more dApps:
    - If you're interested in exploring further dApps and transactions on zkSync, visit https://ecosystem.zksync.io/ for a comprehensive list.
 
-![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophuntbot.jpg?raw=true)
-![](https://github.com/deadspyexx/airdrop-hunt-bot/blob/main/airdrophunt.jpg?raw=true)
+![](https://github.com/GameCheatings/airdrop-hunt-bot/blob/main/airdrophuntbot.jpg?raw=true)
+![](https://github.com/GameCheatings/airdrop-hunt-bot/blob/main/airdrophunt.jpg?raw=true)
 
 ### Copyright
 *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. AIRDROP BOT, AIRDROP CONTRACT, FRONTRUN BOT*
